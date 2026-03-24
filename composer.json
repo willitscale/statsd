@@ -1,5 +1,5 @@
 {
-    "name": "domnikl/statsd",
+    "name": "willitscale/statsd",
     "type": "library",
     "description": "a PHP client for statsd",
     "keywords": ["monitoring", "statsd", "statistics", "metrics", "udp"],
