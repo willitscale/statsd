@@ -1,0 +1,11 @@
+# general
+.idea
+
+# test coverage report
+tests/coverage
+
+# composer
+/vendor
+/composer.lock
+/composer.phar
+
